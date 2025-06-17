@@ -1,4 +1,4 @@
 [core]
-    remote = localstorage
-['remote "localstorage"']
-    url = C:/Users/Student/dvc-storage
+    remote = localremote
+['remote "localremote"']
+    url = ../dvc-storage
